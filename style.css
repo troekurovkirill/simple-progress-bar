@@ -1,0 +1,17 @@
+#myProgress {
+	display: block;
+	margin: 0 auto;
+	-webkit-border-radius: 5px;
+          border-radius: 5px;
+  width: 600px;
+  background-color: #eff3f3;
+}
+
+#myBar {
+	margin-top: 50px;
+  width: 1%;
+  height: 10px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+  background-color: #17a1e6;
+}
